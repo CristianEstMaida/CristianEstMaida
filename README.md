@@ -10,6 +10,6 @@
 - 👯 I’m looking to collaborate on backend-heavy projects or data-driven applications.  
 - 🤔 I’m looking for help with full-stack integration and real-world BI use cases.  
 - 💬 Ask me about backend frameworks, Docker configs, or programming career paths.  
-- 📫 How to reach me: [cristianmaida@outlook.com] | [linkedin.com/CristianEstMaida] 
+- 📫 How to reach me: [cristianmaida@outlook.com] | [linkedin.com/in/CristianEstMaida] 
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I use Trello, Notion, and Google Calendar like a digital architect—they keep my chaos beautifully structured.

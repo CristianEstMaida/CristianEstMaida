@@ -91,8 +91,8 @@
 <a href="https://www.linkedin.com/in/cristian-esteban-maida/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="https://www.youtube.com/@cristianestebanmaida/videos">
+<!--a href="https://www.youtube.com/@cristianestebanmaida/videos">
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
-</a>
+</a-->
 
   

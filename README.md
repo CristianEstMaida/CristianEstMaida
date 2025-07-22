@@ -94,7 +94,7 @@
 <!--a href="https://www.youtube.com/@cristianestebanmaida/videos">
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
 </a-->
-<div align="center">
+<div>
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=CristianEstMaida&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/CristianEstMaida)

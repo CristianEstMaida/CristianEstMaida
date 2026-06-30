@@ -1,18 +1,18 @@
 ## Hi there 👋 I'm Cristian
 
-💻 I'm a backend developer passionate about clean architecture, scalable systems, and continuous learning.  
-🎓 Final-year student at UTN Avellaneda in Tecnicatura Universitaria en Programación — planning to pursue a Licenciatura en Tecnologías Digitales next.  
-🔍 Currently exploring Business Intelligence and expanding my stack with Node.js, React, and Docker.
-🚀 My goal is to become a CTO and drive innovation through smart systems and strategic planning.
+💻 Backend developer passionate about clean architecture, scalable systems, and continuous learning.
+🎓 Advanced student at UTN Avellaneda — Tecnicatura Universitaria en Programación (17/21 subjects approved). Planning to pursue a Licenciatura en Tecnologías Digitales next.
+🔍 Exploring Business Intelligence while expanding my stack with Node.js, React, Docker, and consolidating experience in .NET and SQL.
+🚀 Goal: grow as a backend developer and evolve into technical leadership roles, driving innovation through smart systems and strategic planning.
 
-- 🔭 I’m currently working on refining Docker deployment flows and resolving tricky SQL/Spring Boot errors.  
-- 🌱 I’m learning advanced JavaScript, DevOps practices, and BI concepts.  
-- 👯 I’m looking to collaborate on backend-heavy projects or data-driven applications.  
-- 🤔 I’m looking for help with full-stack integration and real-world BI use cases.  
-- 💬 Ask me about backend frameworks, Docker configs, or programming career paths.  
-- 📫 How to reach me: [cristianmaida@outlook.com] | [[linkedin.com/in/CristianEstMaida](https://www.linkedin.com/in/cristian-esteban-maida/)] 
-- 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I use Trello, Notion, and Google Calendar like a digital architect—they keep my chaos beautifully structured.
+🔭 Currently refining Docker deployment flows and resolving SQL/Spring Boot challenges.
+🌱 Learning advanced JavaScript, DevOps practices, and BI concepts.
+👯 Open to collaborating on backend-heavy projects or data-driven applications.
+🤔 Interested in full-stack integration and real-world BI use cases.
+💬 Ask me about backend frameworks, Docker configs, or programming career paths.
+📫 Reach me at: cristianmaida@outlook.com | linkedin.com/in/CristianEstMaida
+😄 Pronouns: He/Him
+⚡ Fun fact: I use Trello, Notion, and Google Calendar like a digital architect—they keep my chaos beautifully structured.
 
 ## My Skills Include
 

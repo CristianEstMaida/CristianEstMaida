@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Cristian
 
 💻 Backend developer passionate about clean architecture, scalable systems, and continuous learning.
-🎓 Advanced student at UTN Avellaneda — Tecnicatura Universitaria en Programación (19/21 subjects approved). Planning to pursue a Licenciatura en Tecnologías Digitales next.
+🎓 Advanced student at UTN Avellaneda — Tecnicatura Universitaria en Programación (20/21 subjects approved). Planning to pursue a Licenciatura en Tecnologías Digitales next.
 🔍 Exploring Business Intelligence while expanding my stack with Node.js, React, Docker, and consolidating experience in .NET and SQL.
 🚀 Goal: grow as a backend developer and evolve into technical leadership roles, driving innovation through smart systems and strategic planning.
 
